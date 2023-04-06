@@ -331,13 +331,13 @@ header .follow a:hover{
     padding-top: .5rem;
 }
 
-.service .box-container{
+.projects .box-container{
     display: flex;
     flex-wrap: wrap;
     gap:1.5rem;
 }
 
-.service .box-container .box{
+.projects .box-container .box{
     flex:1 1 30rem;
     text-align: center;
     padding:2rem;
@@ -346,7 +346,7 @@ header .follow a:hover{
     box-shadow:0 .5rem 1rem rgba(0,0,0,.1);
 }
 
-.service .box-container .box i{
+.projects .box-container .box i{
     height:6rem;
     width:6rem;
     line-height: 6rem;
@@ -356,13 +356,13 @@ header .follow a:hover{
     border-radius: 50%;
 }
 
-.service .box-container .box h3{
+.projects .box-container .box h3{
     color:#444;
     font-size: 2.2rem;
     padding-top: 1rem;
 }
 
-.service .box-container .box p{
+.projects .box-container .box p{
     color:#666;
     font-size: 1.7rem;
     padding-top: .5rem;
